@@ -23,7 +23,7 @@ The project follows a standard machine learning workflow:
 First, clone the repository and install the required dependencies.
 ```bash
 # Clone the repository
-git clone [your-repo-link]
+git clone https://github.com/truong-tt/HopeGait/tree/main/HopeGait_v1
 cd HopeGait_v1
 
 # Install dependencies
