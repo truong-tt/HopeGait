@@ -1,4 +1,4 @@
-# HopeGait_v1: Parkinson's Freezing of Gait (FoG) Detection
+# HopeGait_v1: Daphnet FoG Dataset
 
 This project develops a machine learning pipeline to detect Freezing of Gait (FoG) episodes in Parkinson's disease patients using data from wearable IMU sensors.
 
